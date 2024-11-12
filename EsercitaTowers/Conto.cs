@@ -21,7 +21,7 @@ namespace EsercitaTowers
         
         public string NomeCliente { get { return nomeCliente; } }
         public string NomeBanca { get { return nomeBanca; } }   
-        public double Saldo { get { return saldo; } }   
+        public double Saldo { get { return saldo; } set { saldo = value; } }   
 
     }
 }

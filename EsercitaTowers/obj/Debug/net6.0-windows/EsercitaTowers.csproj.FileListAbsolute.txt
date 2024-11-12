@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\EsercitaTowers\EsercitaTowers\bin\Debug\net6.0-windows\EsercitaTowers.exe
+C:\Users\user\Desktop\EsercitaTowers\EsercitaTowers\bin\Debug\net6.0-windows\EsercitaTowers.deps.json
+C:\Users\user\Desktop\EsercitaTowers\EsercitaTowers\bin\Debug\net6.0-windows\EsercitaTowers.runtimeconfig.json
+C:\Users\user\Desktop\EsercitaTowers\EsercitaTowers\bin\Debug\net6.0-windows\EsercitaTowers.dll
+C:\Users\user\Desktop\EsercitaTowers\EsercitaTowers\bin\Debug\net6.0-windows\EsercitaTowers.pdb
+C:\Users\user\Desktop\EsercitaTowers\EsercitaTowers\obj\Debug\net6.0-windows\EsercitaTowers.Form1.resources
+C:\Users\user\Desktop\EsercitaTowers\EsercitaTowers\obj\Debug\net6.0-windows\EsercitaTowers.csproj.GenerateResource.cache
+C:\Users\user\Desktop\EsercitaTowers\EsercitaTowers\obj\Debug\net6.0-windows\EsercitaTowers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\EsercitaTowers\EsercitaTowers\obj\Debug\net6.0-windows\EsercitaTowers.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\EsercitaTowers\EsercitaTowers\obj\Debug\net6.0-windows\EsercitaTowers.AssemblyInfo.cs
+C:\Users\user\Desktop\EsercitaTowers\EsercitaTowers\obj\Debug\net6.0-windows\EsercitaTowers.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\EsercitaTowers\EsercitaTowers\obj\Debug\net6.0-windows\EsercitaTowers.sourcelink.json
+C:\Users\user\Desktop\EsercitaTowers\EsercitaTowers\obj\Debug\net6.0-windows\EsercitaTowers.dll
+C:\Users\user\Desktop\EsercitaTowers\EsercitaTowers\obj\Debug\net6.0-windows\refint\EsercitaTowers.dll
+C:\Users\user\Desktop\EsercitaTowers\EsercitaTowers\obj\Debug\net6.0-windows\EsercitaTowers.pdb
+C:\Users\user\Desktop\EsercitaTowers\EsercitaTowers\obj\Debug\net6.0-windows\EsercitaTowers.genruntimeconfig.cache
+C:\Users\user\Desktop\EsercitaTowers\EsercitaTowers\obj\Debug\net6.0-windows\ref\EsercitaTowers.dll
