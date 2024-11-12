@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\EsercitaTowers\\EsercitaTowers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B4D4A4F-F4FD-4AA7-A2CD-5288FE8EF449}|EsercitaTowers.csproj|c:\\users\\user\\desktop\\esercitatowers\\esercitatowers\\conto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B4D4A4F-F4FD-4AA7-A2CD-5288FE8EF449}|EsercitaTowers.csproj|solutionrelative:conto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B4D4A4F-F4FD-4AA7-A2CD-5288FE8EF449}|EsercitaTowers.csproj|c:\\users\\user\\desktop\\esercitatowers\\esercitatowers\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B4D4A4F-F4FD-4AA7-A2CD-5288FE8EF449}|EsercitaTowers.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B4D4A4F-F4FD-4AA7-A2CD-5288FE8EF449}|EsercitaTowers.csproj|c:\\users\\user\\desktop\\esercitatowers\\esercitatowers\\bancomat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B4D4A4F-F4FD-4AA7-A2CD-5288FE8EF449}|EsercitaTowers.csproj|solutionrelative:bancomat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B4D4A4F-F4FD-4AA7-A2CD-5288FE8EF449}|EsercitaTowers.csproj|c:\\users\\user\\desktop\\esercitatowers\\esercitatowers\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B4D4A4F-F4FD-4AA7-A2CD-5288FE8EF449}|EsercitaTowers.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bancomat.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EsercitaTowers\\EsercitaTowers\\Bancomat.cs",
+              "RelativeDocumentMoniker": "Bancomat.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EsercitaTowers\\EsercitaTowers\\Bancomat.cs",
+              "RelativeToolTip": "Bancomat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:29:07.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EsercitaTowers\\EsercitaTowers\\Conto.cs",
+              "RelativeDocumentMoniker": "Conto.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EsercitaTowers\\EsercitaTowers\\Conto.cs",
+              "RelativeToolTip": "Conto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:28:40.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EsercitaTowers\\EsercitaTowers\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EsercitaTowers\\EsercitaTowers\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:27:28.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EsercitaTowers\\EsercitaTowers\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EsercitaTowers\\EsercitaTowers\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "Form1.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:27:19.82Z",
+              "EditorCaption": " [Progettazione]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

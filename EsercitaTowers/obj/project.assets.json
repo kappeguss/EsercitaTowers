@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\EsercitaTowers\\EsercitaTowers.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\EsercitaTowers\\EsercitaTowers\\EsercitaTowers.csproj",
       "projectName": "EsercitaTowers",
-      "projectPath": "C:\\Users\\user\\source\\repos\\EsercitaTowers\\EsercitaTowers.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\EsercitaTowers\\EsercitaTowers\\EsercitaTowers.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\EsercitaTowers\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\EsercitaTowers\\EsercitaTowers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

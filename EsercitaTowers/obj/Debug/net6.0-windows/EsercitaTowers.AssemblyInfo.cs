@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EsercitaTowers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64b58c229d4cb407cdb8ea061de79468f4102f90")]
 [assembly: System.Reflection.AssemblyProductAttribute("EsercitaTowers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EsercitaTowers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
