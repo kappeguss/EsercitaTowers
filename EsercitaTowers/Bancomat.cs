@@ -25,7 +25,11 @@ namespace EsercitaTowers
 
         public void Prelievo(double denaroPrelevato)
         {
-            if(conto.Saldo<denaroPrelevato) return;
+            if(conto.Saldo<denaroPrelevato) 
+            {
+                MessageBox.Show("ORRORE!!!");
+                return;
+            }
             conto.Saldo -= denaroPrelevato;
             
         }

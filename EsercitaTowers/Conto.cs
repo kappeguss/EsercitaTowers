@@ -11,12 +11,27 @@ namespace EsercitaTowers
         private string nomeCliente;
         private string nomeBanca;
         private double saldo;
+        
 
         public Conto(string nomeCliente, string nomeBanca, double saldo)
         {
             this.nomeCliente = nomeCliente;
             this.nomeBanca = nomeBanca; 
             this.saldo = saldo;
+           
+        }
+
+        public void Bonifico(double denaroPassato, Conto conto2)
+        {
+            if (saldo < denaroPassato)
+            {
+                MessageBox.Show("ORRORE!!!");
+                return;
+            }
+               
+            saldo -= denaroPassato;
+            conto2.Saldo +=denaroPassato;
+            
         }
         
         public string NomeCliente { get { return nomeCliente; } }

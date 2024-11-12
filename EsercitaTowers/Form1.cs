@@ -11,10 +11,12 @@ namespace EsercitaTowers
         public Form1()
         {
             InitializeComponent();
-            conto = new Conto("Hu", "Mediolanum", 600);
+            
+            conto = new Conto("Hu", "Mediolanum", 600 );
             bancomat = new Bancomat("12347654239", "177", conto);
-            conto2 = new Conto("Signorelli", "Skibidi", 1200);
+            conto2 = new Conto("Signorelli", "Skibidi", 1200 );
             bancomat2 = new Bancomat("6578342150", "090", conto2);
+           
 
         }
 
@@ -60,7 +62,22 @@ namespace EsercitaTowers
             label5.Text = Convert.ToString(conto2.Saldo);
         }
 
+        private void button3_Click(object sender, EventArgs e)
+        {
+            conto.Bonifico(Convert.ToDouble(numericUpDown1.Value),conto2);
+            label2.Text = Convert.ToString(conto.Saldo);
+            label5.Text = Convert.ToString(conto2.Saldo);
+
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            conto2.Bonifico(Convert.ToDouble(numericUpDown1.Value),conto);
+            label2.Text = Convert.ToString(conto.Saldo);
+            label5.Text = Convert.ToString(conto2.Saldo);
+
+        }
     }
-       
-    
+
+
 }

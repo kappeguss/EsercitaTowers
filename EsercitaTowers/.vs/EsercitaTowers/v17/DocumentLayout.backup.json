@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{6B4D4A4F-F4FD-4AA7-A2CD-5288FE8EF449}|EsercitaTowers.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B4D4A4F-F4FD-4AA7-A2CD-5288FE8EF449}|EsercitaTowers.csproj|C:\\Users\\user\\Desktop\\EsercitaTowers\\EsercitaTowers\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6B4D4A4F-F4FD-4AA7-A2CD-5288FE8EF449}|EsercitaTowers.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6B4D4A4F-F4FD-4AA7-A2CD-5288FE8EF449}|EsercitaTowers.csproj|c:\\users\\user\\desktop\\esercitatowers\\esercitatowers\\bancomat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B4D4A4F-F4FD-4AA7-A2CD-5288FE8EF449}|EsercitaTowers.csproj|solutionrelative:bancomat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6B4D4A4F-F4FD-4AA7-A2CD-5288FE8EF449}|EsercitaTowers.csproj|c:\\users\\user\\desktop\\esercitatowers\\esercitatowers\\conto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B4D4A4F-F4FD-4AA7-A2CD-5288FE8EF449}|EsercitaTowers.csproj|solutionrelative:conto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B4D4A4F-F4FD-4AA7-A2CD-5288FE8EF449}|EsercitaTowers.csproj|c:\\users\\user\\desktop\\esercitatowers\\esercitatowers\\bancomat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B4D4A4F-F4FD-4AA7-A2CD-5288FE8EF449}|EsercitaTowers.csproj|solutionrelative:bancomat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B4D4A4F-F4FD-4AA7-A2CD-5288FE8EF449}|EsercitaTowers.csproj|C:\\Users\\user\\Desktop\\EsercitaTowers\\EsercitaTowers\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B4D4A4F-F4FD-4AA7-A2CD-5288FE8EF449}|EsercitaTowers.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,27 +38,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Bancomat.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EsercitaTowers\\EsercitaTowers\\Bancomat.cs",
-              "RelativeDocumentMoniker": "Bancomat.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\EsercitaTowers\\EsercitaTowers\\Bancomat.cs",
-              "RelativeToolTip": "Bancomat.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T18:29:07.355Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Conto.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EsercitaTowers\\EsercitaTowers\\Conto.cs",
               "RelativeDocumentMoniker": "Conto.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\EsercitaTowers\\EsercitaTowers\\Conto.cs",
-              "RelativeToolTip": "Conto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABPAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EsercitaTowers\\EsercitaTowers\\Conto.cs*",
+              "RelativeToolTip": "Conto.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T18:28:40.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bancomat.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EsercitaTowers\\EsercitaTowers\\Bancomat.cs",
+              "RelativeDocumentMoniker": "Bancomat.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EsercitaTowers\\EsercitaTowers\\Bancomat.cs*",
+              "RelativeToolTip": "Bancomat.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:29:07.355Z",
               "EditorCaption": ""
             },
             {
@@ -67,21 +68,21 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EsercitaTowers\\EsercitaTowers\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\EsercitaTowers\\EsercitaTowers\\Form1.cs*",
-              "RelativeToolTip": "Form1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAxAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EsercitaTowers\\EsercitaTowers\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAuwEwAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T18:27:28.131Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Progettazione]",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EsercitaTowers\\EsercitaTowers\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\EsercitaTowers\\EsercitaTowers\\Form1.cs [Progettazione]*",
-              "RelativeToolTip": "Form1.cs [Progettazione]*",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EsercitaTowers\\EsercitaTowers\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "Form1.cs [Progettazione]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T18:27:19.82Z",
               "EditorCaption": " [Progettazione]"

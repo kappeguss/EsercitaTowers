@@ -39,6 +39,7 @@
             label5 = new Label();
             button4 = new Button();
             button5 = new Button();
+            button6 = new Button();
             ((System.ComponentModel.ISupportInitialize)numericUpDown1).BeginInit();
             SuspendLayout();
             // 
@@ -107,6 +108,7 @@
             button3.TabIndex = 7;
             button3.Text = "Bonifico";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
             // 
             // label4
             // 
@@ -146,11 +148,22 @@
             button5.UseVisualStyleBackColor = true;
             button5.Click += button5_Click;
             // 
+            // button6
+            // 
+            button6.Location = new Point(496, 33);
+            button6.Name = "button6";
+            button6.Size = new Size(117, 62);
+            button6.TabIndex = 12;
+            button6.Text = "Bonifico2";
+            button6.UseVisualStyleBackColor = true;
+            button6.Click += button6_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(button6);
             Controls.Add(button5);
             Controls.Add(button4);
             Controls.Add(label5);
@@ -183,5 +196,6 @@
         private Label label5;
         private Button button4;
         private Button button5;
+        private Button button6;
     }
 }
